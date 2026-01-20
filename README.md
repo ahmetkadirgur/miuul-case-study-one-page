@@ -13,4 +13,4 @@ HTML5 fundamentals and Git/GitHub workflow.
 - Work with branches and commits in a real project
 
 ## Author
-Ahmet Kadir Gür
+AKG
